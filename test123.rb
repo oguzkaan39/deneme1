@@ -1,5 +1,4 @@
 merhaba dünya
 
-class def adfşkj
-
+yeni satır
 
